@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/food-blog/static/css/main.b7da58d0.css",
+    "main.js": "/food-blog/static/js/main.9791a5da.js",
+    "static/media/murukku.jpg": "/food-blog/static/media/murukku.d2dce05493747a165fb9.jpg",
+    "static/media/samosa.png": "/food-blog/static/media/samosa.84636f8c2623392495bf.png",
+    "static/media/tea.jpg": "/food-blog/static/media/tea.4ea92d44c65d5e8bcf52.jpg",
+    "static/media/biryani.jpg": "/food-blog/static/media/biryani.4d14f5aa16a01ea38940.jpg",
+    "static/media/butter.jpg": "/food-blog/static/media/butter.2da0d35e1a723c9d0781.jpg",
+    "static/media/parotta.jpg": "/food-blog/static/media/parotta.8a1962071317019203f3.jpg",
+    "index.html": "/food-blog/index.html",
+    "main.b7da58d0.css.map": "/food-blog/static/css/main.b7da58d0.css.map",
+    "main.9791a5da.js.map": "/food-blog/static/js/main.9791a5da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7da58d0.css",
+    "static/js/main.9791a5da.js"
+  ]
+}
